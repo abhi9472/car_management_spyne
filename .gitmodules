@@ -1,0 +1,6 @@
+[submodule "Car_Spyne_Backend"]
+	path = Car_Spyne_Backend
+	url = https://github.com/abhi9472/Car_Spyne_Backend.git
+[submodule "Car_Spyne_Frontend"]
+	path = Car_Spyne_Frontend
+	url = https://github.com/abhi9472/Car_Spyne_Frontend.git
